@@ -17,7 +17,7 @@ export const data: Array<Testimonial> = [
     id: 2,
     title: 'Best Quality Online Course!',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Best Quality Online Course!',
     user: {
       id: 1,
       name: 'Riski',
@@ -29,7 +29,7 @@ export const data: Array<Testimonial> = [
     id: 3,
     title: 'Very complete class',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Very complete class',
     user: {
       id: 1,
       name: 'Nguyễn Văn',
@@ -41,7 +41,7 @@ export const data: Array<Testimonial> = [
     id: 4,
     title: 'Great Quality!',
     content:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+      'Great Quality',
     user: {
       id: 1,
       name: 'Diana Jordan',
